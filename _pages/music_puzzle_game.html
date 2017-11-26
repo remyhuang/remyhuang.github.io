@@ -1,0 +1,97 @@
+---
+layout: archive
+title: "Music Puzzle Game"
+permalink: /music_puzzle_game/
+author_profile: true
+---
+
+The goal of music puzzle game is to rearrange several music segments to reconstruct the original song. 
+We will show the puzzle pieces of each music sets and results from our proposed method and another compared method. 
+There are total two examples that the first is a good example and the second is a not-so-good example. 
+Due to the music copyright, we use the music from NoCopyrightSounds <a href="http://nocopyrightsounds.co.uk/">(NCS)</a> to be our music resource.
+
+<h3><span style=color:CornflowerBlue>Puzzle game 1. good example (Alan Walker - Spectre)</span></h3>
+<ol class="task-list">
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_1.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_5.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_3.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_7.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_4.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_2.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_8.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre/spectre_6.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+</ol>
+<p>Answer: 1, 6, 3, 5, 2, 8, 4, 7</p>
+
+<h3>Result from our proposed method (Similarity Embedding Network)</h3>
+<p>Predict: 1, 6, 3, 5, 2, 8, 4, 7</p>
+<audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre.mp3" type="audio/mpeg" />Your browser does not support the audio element.</audio>
+<h3>Result from compared method (Siamese Network)</h3>
+<p>Predict: 1, 2, 6, 4, 8, 5, 3, 7</p>
+<audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/spectre_sn.mp3" type="audio/mpeg" />Your browser does not support the audio element.</audio>
+
+<hr>
+
+<h3><span style=color:CornflowerBlue>Puzzle game 2. not-so-good example (Kovan &amp; Electro Light - Skyline)</span></h3>
+<ol class="task-list">
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline/skyline_2.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline/skyline_4.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline/skyline_6.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline/skyline_1.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline/skyline_3.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+<li><audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline/skyline_5.wav" type="audio/mpeg" />Your browser does not support the audio element.</audio></li>
+</ol>
+<p>Answer: 4, 1, 5, 2, 6, 3</p>
+
+<h3>Result from our proposed method (Similarity Embedding Network)</h3>
+<p>Predict: 1, 4, 5, 2, 6, 3</p>
+<audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline.mp3" type="audio/mpeg" />Your browser does not support the audio element.</audio>
+<h3>Result from compared method (Siamese Network)</h3>
+<p>Predict: 4, 1, 2, 5, 3, 6</p>
+<audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/skyline_sn.mp3" type="audio/mpeg" />Your browser does not support the audio element.</audio>
+<hr>
+
+One of the applications is the <strong>Music Medley</strong> which is to find a optimal permutation in a given music sets (different songs). Each song is a 10-second clip extracted from our prior work, music thumbnailing and we generate a medley for the given six clips. Note that we don't use any 'transition' methods.
+
+<h3><span style=color:CornflowerBlue>Demo 1.</span></h3>
+<ul class="music-list">
+<li>Alan Walker - Fade</li>
+<li>Alan Walker - Force</li>
+<li>Alan Walker - Spectre</li>
+<li>Jim Yosef - Link</li>
+<li>Kovan &amp; Electro Light - Skyline</li>
+<li>Lennart Schroot &amp; Unknown Brain - Kuyenda (ft. Sru)</li>
+</ul>
+<audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/ncs_1.mp3" type="audio/mpeg" />Your browser does not support the audio element.</audio>
+
+<h3><span style=color:CornflowerBlue>Demo 2.</span></h3>
+<ul class="music-list">
+<li>NIVIRO - You</li>
+<li>Prismo - Hold on</li>
+<li>T-Mass - Bow and Arrow</li>
+<li>Toms Burkovskis - Culture Code - Make Me Move (Tobu Remix) ft. KARRA</li>
+<li>TULE - Fearless</li>
+<li>Unknown Brain - Inspiration (feat. Aviella)</li>
+</ul>
+<audio controls controlsList="nodownload"><source src="../files/audio/puzzlegame/ncs_2.mp3" type="audio/mpeg" />Your browser does not support the audio element.</audio>
+<hr>
+
+<h3><span style=color:CornflowerBlue>YouTube links of music medleys that used in our experiments.</span></h3>
+<ul class="list">
+<li><a href="https://www.youtube.com/watch?v=Fjvkg700fYs">https://www.youtube.com/watch?v=Fjvkg700fYs</a></li>
+<li><a href="https://www.youtube.com/watch?v=uWfJlnLh-cY">https://www.youtube.com/watch?v=uWfJlnLh-cY</a></li>
+<li><a href="https://www.youtube.com/watch?v=VyEmVsIQxV0">https://www.youtube.com/watch?v=VyEmVsIQxV0</a></li>
+<li><a href="https://www.youtube.com/watch?v=ueqhCXnndXc">https://www.youtube.com/watch?v=ueqhCXnndXc</a></li>
+<li><a href="https://www.youtube.com/watch?v=8nqwpbSpvXw">https://www.youtube.com/watch?v=8nqwpbSpvXw</a></li>
+<li><a href="https://www.youtube.com/watch?v=2D96S3yUKAo">https://www.youtube.com/watch?v=2D96S3yUKAo</a></li>
+<li><a href="https://www.youtube.com/watch?v=-rY3zO3o1WE">https://www.youtube.com/watch?v=-rY3zO3o1WE</a></li>
+<li><a href="https://www.youtube.com/watch?v=flYEKd09yAI">https://www.youtube.com/watch?v=flYEKd09yAI</a></li>
+<li><a href="https://www.youtube.com/watch?v=J4cwMVxQhnc">https://www.youtube.com/watch?v=J4cwMVxQhnc</a></li>
+<li><a href="https://www.youtube.com/watch?v=jxxgQwnZPvA">https://www.youtube.com/watch?v=jxxgQwnZPvA</a></li>
+<li><a href="https://www.youtube.com/watch?v=biKm8PcjmGQ">https://www.youtube.com/watch?v=biKm8PcjmGQ</a></li>
+<li><a href="https://www.youtube.com/watch?v=hTahsHz9l5g">https://www.youtube.com/watch?v=hTahsHz9l5g</a></li>
+<li><a href="https://www.youtube.com/watch?v=7jJFAPtMWN4">https://www.youtube.com/watch?v=7jJFAPtMWN4</a></li>
+<li><a href="https://www.youtube.com/watch?v=iQ-szM7ODIo">https://www.youtube.com/watch?v=iQ-szM7ODIo</a></li>
+<li><a href="https://www.youtube.com/watch?v=0EYSbgHEeJA">https://www.youtube.com/watch?v=0EYSbgHEeJA</a></li>
+<li><a href="https://www.youtube.com/watch?v=oN1Ux1ueLZ8">https://www.youtube.com/watch?v=oN1Ux1ueLZ8</a></li>
+</ul>
