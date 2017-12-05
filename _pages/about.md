@@ -32,5 +32,5 @@ Late-Breaking/Demo in Proc. Int. Society of Music Information Retrieval <span st
 <span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
 
 * __Music Thumbnailing via Neural Attention Modeling of Music Emotion__<br />
-in Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conf <span style="color:blue">(APSIPA ASC’17).</span> [\[pdf\]](https://remyhuang.github.io/files/huang17apsipa.pdf) [\[project\]](https://remyhuang.github.io/music_thumbnailing)<br />
+in Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conf <span style="color:blue">(APSIPA ASC’17).</span> [\[pdf\]](https://remyhuang.github.io/files/huang17apsipa.pdf) [\[project\]](https://remyhuang.github.io/music_thumbnailing) [\[poster\]](https://remyhuang.github.io/files/huang17apsipa-poster.pdf)<br />
 <span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
