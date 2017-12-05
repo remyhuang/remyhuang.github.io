@@ -14,12 +14,12 @@ Email: yshuang@citi.sinica.edu.tw
 
 Education
 ======
-* B.S., Industrial Engineering, National Tsing Hua University, Taiwan. Sep. 2013 - June. 2017
-* M.S., Computer Science, National Taiwan University, Taiwan. Feb. 2018 -
+* B.S., Industrial Engineering, National Tsing Hua University, Taiwan,  Sep. 13 - Jun. 2017
+* M.S., Computer Science, National Taiwan University, Taiwan,  Feb 18 -
 
 Experience
 =====
-* Exchange Student, Computer Science, Tsinghua University, Beijing, 2016.07-2016.08<br />
+* Exchange Student, Computer Science, Tsinghua University, Beijing,  Jul. 16 - Aug. 16<br />
 
 Publication
 ======
