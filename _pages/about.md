@@ -10,7 +10,7 @@ redirect_from:
 ---
 Research Assistant in MAC Lab, Academia Sinica, Taiwan<br />
 Advisor: [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br />
-Email: yshuang@citi.sinica.edu.tw
+Contact me: yshuang@citi.sinica.edu.tw
 
 Education
 ======
