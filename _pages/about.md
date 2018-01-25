@@ -24,7 +24,7 @@ Experience
 Publication
 ======
 * __Generating Music Medleys via Playing Music Puzzle Games__<br />
-in Proc. AAAI Conf. Artificial Intelligence <span style="color:blue">(AAAI’18).</span> [\[arXiv\]](https://arxiv.org/abs/1709.04384) [\[project\]](https://remyhuang.github.io/music_puzzle_game)<br />
+in Proc. AAAI Conf. Artificial Intelligence <span style="color:blue">(AAAI’18).</span> [\[arXiv\]](https://arxiv.org/abs/1709.04384) [\[project\]](https://remyhuang.github.io/music_puzzle_game) [\[poster\]](https://remyhuang.github.io/files/huang18aaai-poster.pdf)<br />
 <span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
 
 * __DJnet: A Dream for Making An Automatic DJ__<br />
