@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 
 ---
-Research Assistant in MAC Lab, Academia Sinica, Taiwan<br />
-Advisor: [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br />
+Research Assistant at MAC Lab, Academia Sinica, Taiwan<br />
+  * Advisor: [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br />
 Contact me: yshuang@citi.sinica.edu.tw
 
 Education
 ======
 * B.S., Industrial Engineering, National Tsing Hua University, Taiwan,  Sep.13-Jun.17
-* M.S., Computer Science, National Taiwan University, Taiwan,  Feb.18-
 
 Experience
 =====
-* Exchange Student, Computer Science, Tsinghua University, Beijing,  Jul.16-Aug.16<br />
+* Exchange Student, Computer Science, Tsinghua University, Beijing,  Jul.16-Aug.16
 
 Publication
 ======
