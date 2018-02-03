@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 
 ---
+Contact me: yshuang@citi.sinica.edu.tw or sm840816@gmail.com
 * Research Assistant at MAC Lab, Taiwan <br/>
 advised by [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/)
-
-Contact me: yshuang@citi.sinica.edu.tw
 
 Education
 ======
