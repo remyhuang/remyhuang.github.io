@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-Research Assistant at MAC Lab, Taiwan, advised by [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) </br>
+Research Assistant at MAC Lab, Taiwan, advised by [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br/>
 Contact me: yshuang@citi.sinica.edu.tw
 
 Education
