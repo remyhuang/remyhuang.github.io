@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "ABOUT"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 
 ---
-Contact me: yshuang@citi.sinica.edu.tw or sm840816@gmail.com
-* Research Assistant at MAC Lab, Taiwan <br/>
-advised by [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/)
+I am currently a M.S. student at National Taiwan University and research assistant at Academia Sinica, advised by Dr. [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/). Work on machine learning for Music Information Retrieval. <br />
+Contact me: sm840816@gmail.com
 
-Education
+EDUCATION
 ======
 * B.S., Industrial Engineering, National Tsing Hua University, Taiwan,  Sep.13-Jun.17
 
-Experience
+EXPERIENCE
 =====
 * Exchange Student, Computer Science, Tsinghua University, Beijing,  Jul.16-Aug.16
 
-Publication
+PUBLICATION
 ======
 * __Generating Music Medleys via Playing Music Puzzle Games__<br />
 in Proc. AAAI Conf. Artificial Intelligence <span style="color:blue">(AAAI’18).</span> [\[arXiv\]](https://arxiv.org/abs/1709.04384) [\[project\]](https://remyhuang.github.io/music_puzzle_game) [\[poster\]](https://remyhuang.github.io/files/huang18aaai-poster.pdf)<br />
