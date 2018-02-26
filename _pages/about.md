@@ -18,7 +18,8 @@ EDUCATION
 
 EXPERIENCE
 =====
-* Exchange Student, Computer Science, Tsinghua University, Beijing,  Jul.16-Aug.16
+* Research Intern at Sensor Team, TXC Corporation, Taiwan, Jul.15-Aug.15
+* Exchange Student at Computer Science, Tsinghua University, Beijing,  Jul.16-Aug.16
 
 PUBLICATION
 ======
