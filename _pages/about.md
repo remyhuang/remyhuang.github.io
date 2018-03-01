@@ -25,7 +25,7 @@ EXPERIENCE
 PUBLICATION
 ======
 * __Pop Music Highlighter: Marking the Emotion Keypoints__<br />
-in ArXiv e-prints, abs/1802.10495 <span style="color:blue">(arXiv'18)</span>. [\[arXiv\]](https://arxiv.org/abs/1802.10495) [\[code\]](https://remyhuang.github.io/pop-music-highlighter/)<br />
+in ArXiv e-prints, abs/1802.10495 <span style="color:blue">(arXiv'18)</span>. [\[arXiv\]](https://arxiv.org/abs/1802.10495) [\[code\]](https://github.com/remyhuang/pop-music-highlighter/)<br />
 <span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
 
 * __Generating Music Medleys via Playing Music Puzzle Games__<br />
