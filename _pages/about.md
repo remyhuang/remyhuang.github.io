@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YSHuang"
+title: "Yu-Siang Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
