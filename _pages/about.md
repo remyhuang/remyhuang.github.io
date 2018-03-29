@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 
 ---
-I am currently an intern at Xiaoice team Microsoft Research, Beijing, advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/). Also M.S. student at National Taiwan University and research assistant at [MAC Lab](http://mac.citi.sinica.edu.tw/), advised by Dr. [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/).<br />
+M.S. student & Intern, <br />
+Xiaoice team Microsoft Research, Beijing, advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/) <br />
+National Taiwan University, Taiwan, advised by Dr. [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br/>
 
 Work on machine learning for music<br />
 Contact me: sm840816@gmail.com
