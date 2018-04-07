@@ -9,8 +9,9 @@ redirect_from:
 
 ---
 
-<img class="noborder" src="../images/microsoft.png" height="100"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img class="noborder" src="../images/ntu.png" height="100"> <br />
+<img class="noborder" src="../images/microsoft.png" height="50"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img class="noborder" src="../images/ntu.png" height="50"> <br />
+
 Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; M.S. in Computer Science <br />
 Microsoft Research, Beijing &emsp;&emsp;&emsp; National Taiwan University, Taiwan <br />
 Advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/) &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
