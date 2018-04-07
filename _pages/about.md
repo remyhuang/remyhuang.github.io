@@ -9,14 +9,14 @@ redirect_from:
 
 ---
 
-<img class="noborder" src="../images/microsoft.png" height="50"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img class="noborder" src="../images/microsoft.png" height="50"> &emsp;&emsp;
 <img class="noborder" src="../images/ntu.png" height="50"> <br />
 
-Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; M.S. in Computer Science <br />
-Microsoft Research, Beijing &emsp;&emsp;&emsp; National Taiwan University, Taiwan <br />
-Advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/) &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; M.S. in Computer Science <br />
+Microsoft Research, Beijing &emsp;&emsp;&emsp;&emsp;&emsp; National Taiwan University, Taiwan <br />
+Advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/) &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Advised by Dr. [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br />
-Mar 18 - Present &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mar 18 - Present <br />
+Mar 18 - Present &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mar 18 - Present <br />
 <br />
 
 Work on machine learning for music<br />
