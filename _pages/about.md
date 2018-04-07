@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 
 ---
-M.S. student & Intern, <br />
-Xiaoice team Microsoft Research, Beijing, advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/) <br />
-National Taiwan University, Taiwan, advised by Dr. [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br/>
+
+<img class="noborder" src="../images/microsoft.png" height="100"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img class="noborder" src="../images/ntu.png" height="100"> <br />
+Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; M.S. in Computer Science <br />
+Microsoft Research, Beijing &emsp;&emsp;&emsp; National Taiwan University, Taiwan <br />
+Advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/) &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Advised by Dr. [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br />
+Mar 18 - Present &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mar 18 - Present <br />
+<br />
 
 Work on machine learning for music<br />
 Contact me: sm840816@gmail.com
@@ -21,8 +27,8 @@ EDUCATION
 
 EXPERIENCE
 =====
-* Intern at R&D Sensor Team, TXC Corporation, Taiwan, Jul.15-Aug.15
 * Exchange Student at Computer Science, Tsinghua University, Beijing,  Jul.16-Aug.16
+* Intern at R&D Sensor Team, TXC Corporation, Taiwan, Jul.15-Aug.15
 
 PUBLICATION
 ======
