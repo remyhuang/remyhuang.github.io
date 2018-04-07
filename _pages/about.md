@@ -24,12 +24,12 @@ Contact me: sm840816@gmail.com
 
 EDUCATION
 ======
-* B.S., Industrial Engineering, National Tsing Hua University, Taiwan,  Sep.13-Jun.17
+* B.S., Industrial Engineering, National Tsing Hua University, Taiwan,  Sep 13 - Jun 17
 
 EXPERIENCE
 =====
-* Exchange Student at Computer Science, Tsinghua University, Beijing,  Jul.16-Aug.16
-* Intern at R&D Sensor Team, TXC Corporation, Taiwan, Jul.15-Aug.15
+* Exchange Student at Computer Science, Tsinghua University, Beijing,  Jul 16 - Aug 16
+* Intern at R&D Sensor Team, TXC Corporation, Taiwan, Jul 15 - Aug 15
 
 PUBLICATION
 ======
