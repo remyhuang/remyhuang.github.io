@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-<img class="noborder" src="../images/microsoft.png" height="50"> &emsp;&emsp;&emsp;&emsp;&emsp;
+<img class="noborder" src="../images/microsoft.png" height="50"> &emsp;&emsp;&emsp;&emsp;&nbsp;
 <img class="noborder" src="../images/ntu.png" height="50"> <br />
 
 Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; M.S. in Computer Science <br />
