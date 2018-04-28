@@ -43,7 +43,7 @@ in Proc. AAAI Conf. Artificial Intelligence <span style="color:blue">(AAAI’18)
 <span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
 
 * __DJnet: A Dream for Making An Automatic DJ__<br />
-Late-Breaking/Demo in Proc. Int. Society of Music Information Retrieval <span style="color:blue">(ISMIR'17-LBD)</span>. [\[pdf\]](https://remyhuang.github.io/files/huang17ismir-lbd.pdf) [\[project\]](https://remyhuang.github.io/DJnet) [\[poster\]](https://remyhuang.github.io/files/huang17ismir-lbd-poster.pdf)<br />
+Late-Breaking/Demo in Proc. International Society for Music Information Retrieval <span style="color:blue">(ISMIR'17-LBD)</span>. [\[pdf\]](https://remyhuang.github.io/files/huang17ismir-lbd.pdf) [\[project\]](https://remyhuang.github.io/DJnet) [\[poster\]](https://remyhuang.github.io/files/huang17ismir-lbd-poster.pdf)<br />
 <span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
 
 * __Music Thumbnailing via Neural Attention Modeling of Music Emotion__<br />
