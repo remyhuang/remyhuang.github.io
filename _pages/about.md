@@ -9,43 +9,15 @@ redirect_from:
 
 ---
 
-<img class="noborder" src="../images/microsoft.png" height="50"> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
-<img class="noborder" src="../images/ntu.png" height="50"> <br />
-
-Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; M.S. in Computer Science <br />
-Microsoft Research, Beijing &emsp;&emsp;&emsp;&emsp;&emsp; National Taiwan University, Taiwan <br />
-Advised by Dr. [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/) &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Advised by Dr. [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/) <br />
-Mar 18 - Present &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Mar 18 - Present <br />
-<br />
+SHORT BIOS
+=====
+2018/09, Be a master student in National Taiwan University at Computer Science
+2018/04, One paper accepted by Transactions of ISMIR [\[arxiv\]](https://arxiv.org/abs/1802.10495)
+2018/02, Join Xiaoice Science Team, Microsoft Research, Beijing China
+2017/11, One paper accepted by AAAI 2018 [\[arxiv\]](https://arxiv.org/abs/1709.04384)
+2017/08, One paper accepted by APSIPA ASC 2017 [\[pdf\]](https://remyhuang.github.io/files/huang17apsipa.pdf)
+2017/06, Start my research career at MACLab, Academia Sinica, Taipei Taiwan
+2017/06, Graduted from National Tsing Hua University at Industrial Engineering
 
 Work on machine learning for music<br />
 Contact me: sm840816@gmail.com
-
-EDUCATION
-======
-* B.S., Industrial Engineering, National Tsing Hua University, Taiwan,  Sep 13 - Jun 17
-
-EXPERIENCE
-=====
-* Exchange Student at Computer Science, Tsinghua University, Beijing,  Jul 16 - Aug 16
-* Intern at R&D Sensor Team, TXC Corporation, Taiwan, Jul 15 - Aug 15
-
-PUBLICATION
-======
-* __Pop Music Highlighter: Marking the Emotion Keypoints__<br />
-Transactions of the International Society for Music Information Retrieval <span style="color:blue">(TISMIR)</span>,
-accepted for publication. [\[arXiv\]](https://arxiv.org/abs/1802.10495) [\[code\]](https://github.com/remyhuang/pop-music-highlighter/)<br />
-<span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
-
-* __Generating Music Medleys via Playing Music Puzzle Games__<br />
-in Proc. AAAI Conf. Artificial Intelligence <span style="color:blue">(AAAI’18)</span>. [\[arXiv\]](https://arxiv.org/abs/1709.04384) [\[project\]](https://remyhuang.github.io/music_puzzle_game) [\[poster\]](https://remyhuang.github.io/files/huang18aaai-poster.pdf)<br />
-<span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
-
-* __DJnet: A Dream for Making An Automatic DJ__<br />
-Late-Breaking/Demo in Proc. International Society for Music Information Retrieval <span style="color:blue">(ISMIR'17-LBD)</span>. [\[pdf\]](https://remyhuang.github.io/files/huang17ismir-lbd.pdf) [\[project\]](https://remyhuang.github.io/DJnet) [\[poster\]](https://remyhuang.github.io/files/huang17ismir-lbd-poster.pdf)<br />
-<span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
-
-* __Music Thumbnailing via Neural Attention Modeling of Music Emotion__<br />
-in Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conf <span style="color:blue">(APSIPA ASC’17)</span>. [\[pdf\]](https://remyhuang.github.io/files/huang17apsipa.pdf) [\[project\]](https://remyhuang.github.io/music_thumbnailing) [\[poster\]](https://remyhuang.github.io/files/huang17apsipa-poster.pdf)<br />
-<span style="color:darkred">Yu-Siang Huang</span>, Szu-Yu Chou, Yi-Hsuan Yang
