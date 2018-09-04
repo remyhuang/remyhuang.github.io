@@ -12,7 +12,7 @@ redirect_from:
 SHORT BIOS
 =====
 2018/09, Be a master student in National Taiwan University at Computer Science <br />
-2018/04, One paper accepted by Transactions of ISMIR [\[arxiv\]](https://arxiv.org/abs/1802.10495) <br />
+2018/04, One paper accepted by Transactions of ISMIR [\[pdf\]](https://transactions.ismir.net/articles/10.5334/tismir.14/) <br />
 2018/02, Join Xiaoice Science Team as a research intern, Microsoft, Beijing China <br />
 2017/11, One paper accepted by AAAI 2018 [\[arxiv\]](https://arxiv.org/abs/1709.04384) <br />
 2017/08, One paper accepted by APSIPA ASC 2017 [\[pdf\]](https://remyhuang.github.io/files/huang17apsipa.pdf) <br />
