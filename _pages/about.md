@@ -19,6 +19,6 @@ SHORT BIOS
 2017/06, Start my research career at MACLab, Academia Sinica, Taipei Taiwan <br />
 2017/06, Graduted from National Tsing Hua University at Industrial Engineering <br />
 
-Detailed [\[CV\]](https://remyhuang.github.io/files/huang_cv.pdf) <br />
+[CV](https://remyhuang.github.io/files/huang_cv.pdf) <br />
 Work on machine learning for music <br />
 Contact me: sm840816@gmail.com
