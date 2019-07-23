@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YSHuang"
+title                    : "yshuang"
 title_separator          : "-"
 name                     : &name "Yu-Siang Huang"
 description              : &description "personal description"
@@ -99,7 +99,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
