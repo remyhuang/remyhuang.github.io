@@ -8,69 +8,63 @@ author_profile: true
 <!DOCTYPE html>
 <html>
     <head>
-        <title>User Study for Transformer</title>
+<!--         <title>User Study for Transformer</title> -->
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script> -->
     </head>
     <body>
         <script>
+            // for randomly choose samples
             function myGetRandom(min, max) {
                 var r = Math.floor(Math.random()*(max-min+1))+min;
                 return r
             };
             var sampleIndex = myGetRandom(1, 200);
-            alert(sampleIndex)
+            
+            // for get item
+            function myGetItem() {
+                // for musical background
+                var handler_background = document.getElementsByName("background");
+                var background = '0'
+                for(i = 0; i < handler_background.length; i++) { 
+                    if(handler_background[i].checked) 
+                    background = handler_background[i].value; 
+                }
+
+                // for best choice
+                var handler_best = document.getElementsByName("best_choice");
+                var best_choice = '0'
+                for(i = 0; i < handler_best.length; i++) { 
+                    if(handler_best[i].checked) 
+                    best_choice = handler_best[i].value; 
+                }
+
+                // for worst choice
+                var handler_worst = document.getElementsByName("worst_choice");
+                var worst_choice = '0'
+                for(i = 0; i < handler_worst.length; i++) { 
+                    if(handler_worst[i].checked) 
+                    worst_choice = handler_worst[i].value; 
+                }
+
+                // check
+                if (background == '0' || best_choice == '0' || worst_choice == '0') {
+                    alert("Warning! You haven't finish some options!!");
+                } else if (best_choice == worst_choice) {
+                    alert("Warning! You choose the same option for the best and worst!!");
+                } else {
+                    // submit
+                    myPostToGoogle();
+                    // refresh
+                    alert('Thank you!!!');
+                    window.location.reload();
+                }
+            };
         </script>
         
         <div id="container">
             <!-- javascript onclick event -->
             <script type="text/javascript">
-                // for randomly choose samples
-                function myGetRandom(min, max) {
-                    var r = Math.floor(Math.random()*(max-min+1))+min;
-                    return r
-                };
-                var sampleIndex = myGetRandom(1, 200);
-
-                // for get item
-                function myGetItem() {
-                    // for musical background
-                    var handler_background = document.getElementsByName("background");
-                    var background = '0'
-                    for(i = 0; i < handler_background.length; i++) { 
-                        if(handler_background[i].checked) 
-                        background = handler_background[i].value; 
-                    }
-
-                    // for best choice
-                    var handler_best = document.getElementsByName("best_choice");
-                    var best_choice = '0'
-                    for(i = 0; i < handler_best.length; i++) { 
-                        if(handler_best[i].checked) 
-                        best_choice = handler_best[i].value; 
-                    }
-
-                    // for worst choice
-                    var handler_worst = document.getElementsByName("worst_choice");
-                    var worst_choice = '0'
-                    for(i = 0; i < handler_worst.length; i++) { 
-                        if(handler_worst[i].checked) 
-                        worst_choice = handler_worst[i].value; 
-                    }
-
-                    // check
-                    if (background == '0' || best_choice == '0' || worst_choice == '0') {
-                        alert("Warning! You haven't finish some options!!");
-                    } else if (best_choice == worst_choice) {
-                        alert("Warning! You choose the same option for the best and worst!!");
-                    } else {
-                        // submit
-                        myPostToGoogle();
-                        // refresh
-                        alert('Thank you!!!');
-                        window.location.reload();
-                    }
-                };
                 // post to google form
                 function myPostToGoogle() {
                     var field2 = $("input[type='radio'][name='background']:checked").val();
@@ -97,7 +91,7 @@ author_profile: true
                 };
             </script>
             <!-- description -->
-            <h2>User Study for Long-Term Pop Piano Generation via Transformer !!!!!!!!!</h2>
+            <h2>User Study for Long-Term Pop Piano Generation via Transformer</h2>
             <p>
                 Hi, we are from <a href="https://musicai.citi.sinica.edu.tw/" target="_blank">Music and AI Lab</a> at Academia Sinica, Taiwan. <br>
                 We would like to develop an approach to automatically generate long-term pop piano with Transformer (one of the deep learning modules). <br><br>
