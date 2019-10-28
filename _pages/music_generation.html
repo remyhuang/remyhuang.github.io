@@ -36,7 +36,6 @@ author_profile: true
                 } else if (best_choice == worst_choice) {
                     alert("Warning! You choose the same option for the best and worst!!");
                 } else {
-                    alert('Thank you!!!');
                     window.location.reload();
                 };
             };
@@ -57,11 +56,12 @@ author_profile: true
                         0: function() {
                         },
                         200: function() {
+                            alert('Thank you!!!');
                         },
                         400: function() {
                             alert("Something is wrong!");
                         }
-                    };
+                    }
                 });
             };
         </script>
