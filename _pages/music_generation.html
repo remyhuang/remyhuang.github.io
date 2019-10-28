@@ -12,11 +12,13 @@ author_profile: true
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
-            <option value=""></option>
-            <option value="http://google.com">Google</option>
-            <option value="http://gmail.com">Gmail</option>
-            <option value="http://youtube.com">Youtube</option>
+        <select>
+            <script language="javascript" type="text/javascript"> 
+                for(var d=1;d<=31;d++)
+                {
+                    document.write("<option>"+d+"</option>");
+                }
+            </script>
         </select>
     </body>
 </html>
