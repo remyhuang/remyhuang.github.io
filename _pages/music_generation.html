@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 <html>
-    <head>
-        <script src="http://code.jquery.com/jquery-latest.js"></script>
-    </head>
     <body>
         <!-- for submit button -->
         <script language="javascript" type="text/javascript"> 
@@ -105,8 +102,7 @@ author_profile: true
             var link2 = data[sampleIndex][4];
             var link3 = data[sampleIndex][6];
             var link4 = data[sampleIndex][8];
-            alert('1');
-            $("div").html("<audio src='" + link1 + "' controls preload='auto' autobuffer></audio>");
+            $("div").html("<audio controls><source src="' + link1 + '" type="audio/mpeg"></audio>");
         </script>
         
         <!-- radio button -->
