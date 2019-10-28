@@ -37,6 +37,8 @@ author_profile: true
                     alert("Warning! You choose the same option for the best and worst!!");
                 } else {
                     myPostToGoogle();
+                    alert('Thanks you!');
+                    window.location.reload();
                 };
             };
         </script>
@@ -56,11 +58,8 @@ author_profile: true
                         0: function() {
                         },
                         200: function() {  
-                            alert('Thanks you!');
-                            window.location.reload();
                         },
                         400: function() {
-                            alert("Something is wrong!");
                         }
                     }
                 });
