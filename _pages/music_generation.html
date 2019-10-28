@@ -10,7 +10,14 @@ author_profile: true
         <!-- for submit button -->
         <script>
             function myGetItem() {
-                alert('1');
+                var handler_background = document.getElementsByName("background");
+                var background = '0'
+                for(i = 0; i < handler_background.length; i++) { 
+                    if(handler_background[i].checked) 
+                    background = handler_background[i].value; 
+                }
+                alert('2');
+                alert(background);
             };
         </script>
         
