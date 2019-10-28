@@ -12,13 +12,11 @@ author_profile: true
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <form>
-            <select name="YourLocation">
-            　<option value="Taipei">台北</option>
-            　<option value="Taoyuan">桃園</option>
-            　<option value="Hsinchu">新竹</option>
-            　<option value="Miaoli">苗栗</option>
-            </select>
-            </form>
+        <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+            <option value=""></option>
+            <option value="http://google.com">Google</option>
+            <option value="http://gmail.com">Gmail</option>
+            <option value="http://youtube.com">Youtube</option>
+        </select>
     </body>
 </html>
