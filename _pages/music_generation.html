@@ -74,7 +74,7 @@ author_profile: true
                 var r = Math.floor(Math.random()*(max-min+1))+min;
                 return r
             };
-            var sampleIndex = myGetRandom(1, 200);
+            var sampleIndex = myGetRandom(0, 199);
         </script>
         
         <!-- description -->
@@ -102,8 +102,8 @@ author_profile: true
             var link2 = data[sampleIndex][4];
             var link3 = data[sampleIndex][6];
             var link4 = data[sampleIndex][8];
-            $("div").html("<audio src= link1 controls preload='auto' autobuffer></audio>");
             alert('1');
+            $("div").html("<audio src='" + theFile + "' controls preload='auto' autobuffer></audio>");
         </script>
         
         <!-- radio button -->
