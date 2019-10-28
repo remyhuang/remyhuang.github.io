@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "User Study for Transformer"
+permalink: /music_generation/
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>User Study for Transformer</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <!-- javascript onclick event -->
+        <script type="text/javascript">
+            // for randomly choose samples
+            function myGetRandom(min, max) {
+                var r = Math.floor(Math.random()*(max-min+1))+min;
+                return r
+            };
+            var sampleIndex = myGetRandom(1, 200);
+            alert(sampleIndex)
+        </script>
+    </head>
+</html>
