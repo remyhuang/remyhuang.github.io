@@ -55,7 +55,9 @@ author_profile: true
                     statusCode: {
                         0: function() {
                         },
-                        200: function() {
+                        200: function() {  
+                            alert('Thanks you!');
+                            window.location.reload();
                         },
                         400: function() {
                             alert("Something is wrong!");
