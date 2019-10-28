@@ -7,28 +7,16 @@ author_profile: true
 
 <html>
     <body>
-        <select>
-            <script language="javascript" type="text/javascript"> 
-                for(var d=1;d<=31;d++)
-                {
-                    document.write("<option>"+d+"</option>");
-                }
-            </script>
-        </select>
-        
         <!-- for submit button -->
         <script language="javascript" type="text/javascript"> 
             function myGetItem() {
                 var handler_background = document.getElementsByName("background");
                 var background = '0'
-                for(i = 0; i < handler_background.length; i++) { 
+                for(var i=0;i<handler_background.length;i++) { 
                     if(handler_background[i].checked) 
                     background = handler_background[i].value; 
                 }
-                alert('2');
-                alert(background);
             };
-            myGetItem();
         </script>
         
         <!-- for random -->
