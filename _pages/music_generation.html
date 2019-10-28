@@ -11,10 +11,12 @@ author_profile: true
         <script language="javascript" type="text/javascript"> 
             function myGetItem() {
                 var handler_background = document.getElementsByName("background");
-                for(var d=1;d<=31;d++)
-                {
-                    alert(d);
+                var background = '0';
+                for(var i=0;i<handler_background.length;i++) { 
+                    if(handler_background[i].checked) 
+                    background = handler_background[i].value; 
                 };
+                alert(background);
             };
         </script>
         
