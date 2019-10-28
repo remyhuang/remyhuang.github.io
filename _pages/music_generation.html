@@ -9,6 +9,10 @@ author_profile: true
     <body>
         <!-- for random -->
         <script>
+            function temp() {
+                alert(sampleIndex);
+            };
+            
             function myGetRandom(min, max) {
                 var r = Math.floor(Math.random()*(max-min+1))+min;
                 return r
@@ -54,5 +58,7 @@ author_profile: true
                 </form>
             </li>
         </ol>
+        <!-- submit button -->
+        <button type="submit" onclick="myGetItem()">Submit</button>
     </body>
 </html>
