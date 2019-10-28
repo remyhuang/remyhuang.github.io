@@ -12,13 +12,13 @@ author_profile: true
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <select>
-            <script language="javascript" type="text/javascript"> 
-                for(var d=1;d<=31;d++)
-                {
-                    document.write("<option>"+d+"</option>");
-                }
-            </script>
-        </select>
+        <script>
+            function myGetRandom(min, max) {
+                var r = Math.floor(Math.random()*(max-min+1))+min;
+                return r
+            };
+            var sampleIndex = myGetRandom(1, 200);
+            alert(sampleIndex)
+        </script>
     </body>
 </html>
