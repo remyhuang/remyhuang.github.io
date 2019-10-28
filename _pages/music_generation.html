@@ -42,6 +42,30 @@ author_profile: true
             };
         </script>
         
+        <!-- for google form submit -->
+        <script language="javascript" type="text/javascript">
+            function myPostToGoogle() {
+                var field2 = $("input[type='radio'][name='background']:checked").val();
+                var field3 = $("input[type='radio'][name='best_choice']:checked").val();
+                var field4 = $("input[type='radio'][name='worst_choice']:checked").val();
+                $.ajax({
+                    url: "https://docs.google.com/forms/d/e/1FAIpQLSeb0Dz_tRzTmZ21jXV66PQ1xrQqeCPk6TISAGQh9b_0GtuhTg/formResponse",
+                    data: {"entry.44284425": sampleIndex, "entry.1405676118": field2, "entry.1813362143": field3, "entry.992626456": field4},
+                    type: "POST",
+                    dataType: "xml",
+                    statusCode: {
+                        0: function() {
+                        },
+                        200: function() {
+                        },
+                        400: function() {
+                            alert("Something is wrong!");
+                        }
+                    };
+                });
+            };
+        </script>
+        
         <!-- for random -->
         <script>
             function myGetRandom(min, max) {
