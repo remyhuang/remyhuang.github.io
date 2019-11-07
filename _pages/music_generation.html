@@ -80,7 +80,7 @@ author_profile: true
         <p>
             Hi, we are from <u><a href="https://musicai.citi.sinica.edu.tw/" target="_blank">Music and AI Lab</a></u> at Academia Sinica, Taiwan.
             We would like to develop an approach to automatically generate long-term pop piano music with Transformer (one of the deep learning modules). <br><br>
-            In the following questionnaire, we generate 4 music samples which are based on the same 5-bar prompt randomly cut from real (human-made) music.
+            In the following questionnaire, we generate 3 music samples which are based on the same 5-bar prompt randomly cut from real (human-made) music.
             Each sample includes the prompt in the beginning (~10 seconds). After the prompt, you can find out how the machines try to "continue" it.
             You will be asked to rate which sample is the best and worst respectively.
             And everytime you refresh the webpage (or after you press the "submit"), you could get different music samples (overall, we have 200 samples).
@@ -101,11 +101,9 @@ author_profile: true
             var link1 = data[sampleIndex][2];
             var link2 = data[sampleIndex][4];
             var link3 = data[sampleIndex][6];
-            var link4 = data[sampleIndex][8];
             document.getElementById("audio_content").innerHTML = 'Sample 1.<br><audio controls controlsList="nodownload"><source src="' + link1 + '" type="audio/mpeg"></audio><br><br>';
             document.getElementById("audio_content").innerHTML += 'Sample 2.<br><audio controls controlsList="nodownload"><source src="' + link2 + '" type="audio/mpeg"></audio><br><br>';
             document.getElementById("audio_content").innerHTML += 'Sample 3.<br><audio controls controlsList="nodownload"><source src="' + link3 + '" type="audio/mpeg"></audio><br><br>';
-            document.getElementById("audio_content").innerHTML += 'Sample 4.<br><audio controls controlsList="nodownload"><source src="' + link4 + '" type="audio/mpeg"></audio><br><br>';
         </script>
         
         <!-- radio button -->
@@ -123,8 +121,7 @@ author_profile: true
                 <form>
                     <input type="radio" name="best_choice" value="Sample 1."> Sample 1. &nbsp;&nbsp;&nbsp;
                     <input type="radio" name="best_choice" value="Sample 2."> Sample 2. &nbsp;&nbsp;&nbsp;  
-                    <input type="radio" name="best_choice" value="Sample 3."> Sample 3. &nbsp;&nbsp;&nbsp;
-                    <input type="radio" name="best_choice" value="Sample 4."> Sample 4.
+                    <input type="radio" name="best_choice" value="Sample 3."> Sample 3.
                 </form>
             </li>
             <li>
@@ -132,8 +129,7 @@ author_profile: true
                 <form>
                     <input type="radio" name="worst_choice" value="Sample 1."> Sample 1. &nbsp;&nbsp;&nbsp;
                     <input type="radio" name="worst_choice" value="Sample 2."> Sample 2. &nbsp;&nbsp;&nbsp;
-                    <input type="radio" name="worst_choice" value="Sample 3."> Sample 3. &nbsp;&nbsp;&nbsp;
-                    <input type="radio" name="worst_choice" value="Sample 4."> Sample 4.
+                    <input type="radio" name="worst_choice" value="Sample 3."> Sample 3.
                 </form>
             </li>
         </ol>
