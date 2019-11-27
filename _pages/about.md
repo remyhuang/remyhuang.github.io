@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 
 ---
-[Curriculum Vitae](https://remyhuang.github.io/files/huang_cv.pdf) \[Latest update: 2019/09\] <br />
+[Curriculum Vitae](https://remyhuang.github.io/files/huang_cv.pdf) \[Latest update: 2019/11\] <br />
 Contact me: sm840816 __at__ gmail.com
