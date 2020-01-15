@@ -7,7 +7,16 @@ author_profile: true
 
 <html>
     <body>
-        alert('0')
+        
+        <!-- for random -->
+        <script>
+            function myGetRandom(min, max) {
+                var r = Math.floor(Math.random()*(max-min+1))+min;
+                return r
+            };
+            var sampleIndex1 = myGetRandom(0, 49);
+            var sampleIndex2 = myGetRandom(0, 49);
+        </script>
         
         <!-- description -->
         <h1>🎹 Pop Piano Music Generation via Transformer</h1>
@@ -294,16 +303,6 @@ author_profile: true
                     }
                 });
             };
-        </script>
-        
-        <!-- for random -->
-        <script>
-            function myGetRandom(min, max) {
-                var r = Math.floor(Math.random()*(max-min+1))+min;
-                return r
-            };
-            var sampleIndex1 = myGetRandom(0, 49);
-            var sampleIndex2 = myGetRandom(0, 49);
         </script>
     </body>
 </html>
