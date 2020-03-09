@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 
 ---
-__Machine Learning for Music__ <br />
-[my resume](https://remyhuang.github.io/files/huang_cv.pdf) \[Latest update: 2020/02\] <br />
-contact me: sm840816 __at__ gmail.com
+
+Yu-Siang (Remy) Huang <br />
+[Machine Learning Engineer @ Yating Music Team, Taiwan AI Labs](https://ailabs.tw/) <br />
+[Graduate Student @ Graduate Institute of Networking and Multimedia, National Taiwan University](https://www.inm.ntu.edu.tw/main.php) <br />
+
+Email: sm840816 at gmail.com <br />
+My resume/CV: [PDF](https://remyhuang.github.io/files/huang_cv.pdf) \[latest update: 2020/02\] <br />
