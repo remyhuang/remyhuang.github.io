@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 
 ---
-
-## Yu-Siang (Remy) Huang
 [Machine Learning Engineer @ Yating Music Team, Taiwan AI Labs](https://ailabs.tw/) <br />
 [Graduate Student @ Networking and Multimedia, National Taiwan University](https://www.inm.ntu.edu.tw/main.php) <br />
 
