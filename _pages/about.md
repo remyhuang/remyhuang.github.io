@@ -16,7 +16,7 @@ My resume/CV: [PDF](https://remyhuang.github.io/files/huang_cv.pdf) \[latest upd
 ## Experience
 - 2019/06 - 2019/12: Research Intern @ Yating Music Team, Taiwan AI Labs
 - 2018/03 - 2018/08: Software Engineering Intern @ Xiaoice Science Team, Microsoft
-- 2017/06 - 2018/02: Research Assistant (full-time) @ Music and AI Lab, Academia Sinica 
+- 2017/06 - 2018/02: Research Assistant (Full-Time) @ Music and AI Lab, Academia Sinica 
 
 ## Publication
 - "Pop Music Transformer: Generating Music with Rhythm and Harmony." *arXiv 2020*. [\[paper\]](https://arxiv.org/abs/2002.00212) [\[code\]](https://github.com/YatingMusic/remi)
