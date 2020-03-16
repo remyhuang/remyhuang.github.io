@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 
 ---
-- [Machine Learning Engineer](https://ailabs.tw/) @ Yating Music Team, Taiwan AI Labs <br />
-- [Graduate Student](https://www.inm.ntu.edu.tw/main.php) @ Networking and Multimedia, National Taiwan University <br />
+- Machine Learning Engineer @ Yating Music Team, Taiwan AI Labs
+- Graduate Student @ Networking and Multimedia, National Taiwan University
 
 Email: sm840816 at gmail.com <br />
 My resume/CV: [PDF](https://remyhuang.github.io/files/huang_cv.pdf) \[latest update: 2020/02\] <br />
