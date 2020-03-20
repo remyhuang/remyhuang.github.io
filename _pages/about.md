@@ -7,8 +7,5 @@ redirect_from:
   - /about.html
 
 ---
-- Machine Learning Engineer @ Yating Music Team, Taiwan AI Labs
-- Graduate Student @ Networking and Multimedia, National Taiwan University
-
-Email: sm840816 at gmail.com <br />
-My resume/CV: [PDF](https://remyhuang.github.io/files/huang_cv.pdf) \[latest update: 2020/02\] <br />
+Email: sm840816 at gmail.com </br>
+\[ [LinkedIn](https://www.linkedin.com/in/yu-siang-huang-b88669141/) | [GitHub](https://github.com/remyhuang) | [Google Scholar](https://scholar.google.com.tw/citations?user=QA28Z3wAAAAJ&hl=zh-TW) \] 
