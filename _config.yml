@@ -78,10 +78,10 @@ analytics:
 author:
   name             : ""
   avatar           : "IMG_29311.jpg"
-  bio              : "Just do it"
-  location         : "Taiwan"
+  bio              :
+  location         :
   employer         :
-  googlescholar    : "https://scholar.google.com.tw/citations?user=QA28Z3wAAAAJ&hl=zh-TW"
+  googlescholar    :
   email            : 
   uri              : 
   bitbucket        :
@@ -90,12 +90,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "remyhuang"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "yu-siang-huang-b88669141"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
