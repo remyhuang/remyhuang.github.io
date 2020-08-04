@@ -76,12 +76,12 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "IMG_29311.jpg"
   bio              :
-  location         :
+  location         : "Taiwan"
   employer         :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com.tw/citations?user=QA28Z3wAAAAJ"
   email            : 
   uri              : 
   bitbucket        :
@@ -90,12 +90,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "remyhuang"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "yu-siang-huang-b88669141"
   orcid            : 
   pinterest        :
   soundcloud       :
