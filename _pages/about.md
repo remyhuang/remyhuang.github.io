@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 
 ---
-[Curriculum Vitae](https://remyhuang.github.io/files/huang_cv.pdf)
+[my cv](https://remyhuang.github.io/files/huang_cv.pdf)
