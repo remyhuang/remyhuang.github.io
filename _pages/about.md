@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 
 ---
-[my cv](https://remyhuang.github.io/files/huang_cv.pdf)
+Researcher @ Tencent Music Entertainment
+
+[My CV](https://remyhuang.github.io/files/huang_cv.pdf)
