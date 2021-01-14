@@ -9,4 +9,4 @@ redirect_from:
 ---
 Researcher @ Tencent Music Entertainment
 
-[My CV](https://remyhuang.github.io/files/huang_cv.pdf)
+[my curriculum vitae](https://remyhuang.github.io/files/huang_cv.pdf)
