@@ -7,6 +7,5 @@ redirect_from:
   - /about.html
 
 ---
-Researcher @ Tencent Music Entertainment
 
-[my curriculum vitae](https://remyhuang.github.io/files/huang_cv.pdf)
+No longer update (latest: 2021/06/28)
